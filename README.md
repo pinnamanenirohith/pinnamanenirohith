@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Rohith
 
-<!--
-**pinnamanenirohith/pinnamanenirohith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final Year Computer Science Engineering Student (Cloud Native Software Engineering) at KL University.
 
-Here are some ideas to get you started:
+Currently serving as President of Internal Affairs & Student Engagements, leading student operations, engagement initiatives, and organizational coordination.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+* Final Year Engineering Student
+* Java Developer
+* Interested in Full Stack Development, Cloud, Backend Systems, and AI
+* Building real-world software systems and scalable student management solutions
+
+## Technical Skills
+
+**Programming Languages**
+
+* Java
+* C
+* SQL
+
+**Core Subjects**
+
+* OOP
+* DBMS
+* Computer Networks
+* Operating Systems
+
+**Technologies**
+
+* Git & GitHub
+* SQL Server
+* React
+* ASP.NET
+
+## Current Focus
+
+* Placement Preparation
+* Data Structures & Algorithms in Java
+* System Design Fundamentals
+* Full Stack Development
+
+## Featured Projects
+
+### SAC ERP System
+
+A centralized system for attendance, task tracking, approvals, and student engagement management.
+
+### Attendance Management System
+
+A structured student attendance and workflow tracking solution.
+
+### AI Chatbot
+
+An AI-driven chatbot for automation and engagement workflows.
+
+## Certifications
+
+* Salesforce AI Associate
+* Cisco Networking Essentials
+
+## Connect With Me
+
+LinkedIn: Add your LinkedIn link
+Email: Add your email
