@@ -8,7 +8,7 @@ Currently serving as President of Internal Affairs & Student Engagements, leadin
 
 * Final Year Engineering Student
 * Java Developer
-* Interested in Full Stack Development, Cloud, Backend Systems, and AI
+* Interested in Software Engineering, Cloud Technologies, Artificial Intelligence, Backend Systems, and Scalable Student-Centric Solutions.
 * Building real-world software systems and scalable student management solutions
 
 ## Technical Skills
