@@ -61,5 +61,5 @@ An AI-driven chatbot for automation and engagement workflows.
 
 ## Connect With Me
 
-LinkedIn: Add your LinkedIn link
-Email: Add your email
+LinkedIn: https://www.linkedin.com/in/rohith-pinnamaneni-38807a2b2/
+Email: pinnamanenirohith@gmail.com
