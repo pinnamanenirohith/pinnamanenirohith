@@ -2,7 +2,7 @@
 
 Final Year Computer Science Engineering Student (Cloud Native Software Engineering) at KL University.
 
-Currently serving as President of Internal Affairs & Student Engagements, leading student operations, engagement initiatives, and organizational coordination.
+Currently serving as President of Internal Affairs & Student Engagements, leading student operations, engagement initiatives, and organizational coordination at KL SAC(Student Activity Center).
 
 ## About Me
 
