@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7c3aed&height=220&section=header&text=Rohith%20Pinnamaneni&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Cloud%20%7C%20Full%20Stack&descSize=18&descAlignY=60" width="100%" alt="header" />
+<img src="./assets/header.svg" width="100%" alt="header" />
 
 <a href="https://github.com/pinnamanenirohith">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Full+Stack+Engineer+%7C+Next.js+%2B+Node.js;Building+AI+%26+Cloud-Native+Products;SAC+President+%40+KL+University;Product+Engineering+Mindset" alt="Typing SVG" />
@@ -327,6 +327,6 @@ Open To:
 
 *Build things that work, then make them better.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:302b63,100:0f0c29&height=140&section=footer" width="100%" alt="footer" />
+<img src="./assets/footer.svg" width="100%" alt="footer" />
 
 </div>
