@@ -61,7 +61,7 @@ I'm **Pinnamaneni Rohith Venkata Sai**, a B.Tech Computer Science & Engineering 
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=githubactions,docker,linux,nginx,vercel,git,github&theme=dark" alt="DevOps" />
+<img src="https://skillicons.dev/icons?i=aws,githubactions,docker,linux,nginx,vercel,git,github&theme=dark" alt="DevOps" />
 <img src="https://img.shields.io/badge/PM2-4c1d95?style=flat-square&logo=pm2&logoColor=white" alt="PM2" />
 <img src="https://img.shields.io/badge/IBM%20Cloud-1e3a8a?style=flat-square&logo=ibm&logoColor=white" alt="IBM Cloud" />
 
@@ -75,7 +75,7 @@ I'm **Pinnamaneni Rohith Venkata Sai**, a B.Tech Computer Science & Engineering 
 | :--- | :--- | :--- |
 | Conversational AI | Applied | Built the Smart Farming Advisor on IBM Watson Assistant: intents, entities and dialog-node design |
 | Natural Language Processing | Applied | Intent classification and entity extraction for domain-specific (agriculture and weather) queries |
-| Cloud AI Services | Applied | Deployed and integrated AI services on IBM Cloud during the IBM SkillsBuild internship |
+| Cloud AI Services | Applied | Deployed and integrated AI services on IBM Cloud during the IBM SkillsBuild internship; AWS Certified Developer Associate and Cloud Practitioner |
 | AI Foundations | Foundational | Salesforce Certified AI Associate; Cisco Intro to Modern AI; IBM Getting Started with AI |
 | Data Science | Foundational | Cisco Intro to Data Science; Python Essentials 1 & 2 |
 
@@ -211,16 +211,27 @@ Lead the Student Activity Center and act as the main link between student repres
 | Recognition | Details |
 | :--- | :--- |
 | **Certificate of Appreciation** | AP Police, presented by the DGP, for SafeStay AP (2026) |
+| **Certificate of Appreciation** | Superintendent of Police, Guntur District, AP Police, for designing and developing the SafeStay AP mobile application (Sep 2026) |
+| **Certificate of Recognition** | Femflare'26, KL University, for outstanding contribution to the Women Development Cell (2025-26) |
 | **Vice President Recognition Award** | Women Development Cell, KL University (2025-26) |
 | **SAC Administrative Lead Recognition Award** | Student Activity Center, KL University (2024-25) |
 | **SafeLife Club Lead Recognition Award** | SafeLife Club, KL University (2024-25) |
-| **Participant** | Bharatiya Antariksh Hackathon 2026 (ISRO, powered by Hack2Skill) |
+| **Idea Submission & Participation** | Bharatiya Antariksh Hackathon 2026 (ISRO, powered by Hack2Skill) |
 
 </div>
 
 ---
 
 ## Certifications
+
+**AWS**
+
+<img src="https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-ff9900?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=1e1b4b" alt="AWS Certified Developer Associate" />
+<img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-ff9900?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=1e1b4b" alt="AWS Certified Cloud Practitioner" />
+
+**Automation Anywhere**
+
+<img src="https://img.shields.io/badge/Automation%20Anywhere-Certified%20Advanced%20Automation%20Professional-4c1d95?style=flat-square" alt="Automation Anywhere Advanced Automation Professional" />
 
 **Salesforce**
 
@@ -250,20 +261,11 @@ Lead the Student Activity Center and act as the main link between student repres
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=pinnamanenirohith&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=pinnamanenirohith&theme=midnight-purple&hide_border=true&background=0f0c29&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd" alt="GitHub streak" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pinnamanenirohith&theme=github_dark" alt="GitHub stats" />
+<img height="180" src="https://streak-stats.demolab.com/?user=pinnamanenirohith&theme=midnight-purple&hide_border=true&background=0f0c29&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd" alt="GitHub streak" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinnamanenirohith&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=c4b5fd" alt="Top languages" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pinnamanenirohith&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pinnamanenirohith&theme=github_dark" alt="Repos per language" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pinnamanenirohith&theme=github_dark" alt="Top languages" />
 
 </div>
 
@@ -273,7 +275,7 @@ Lead the Student Activity Center and act as the main link between student repres
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pinnamanenirohith&theme=react-dark&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=4c1d95&hide_border=true" alt="Contribution graph" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pinnamanenirohith&theme=github_dark" alt="Contribution activity" width="100%" />
 
 </div>
 
