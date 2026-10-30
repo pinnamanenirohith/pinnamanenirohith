@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="header" />
+<img src="./assets/banner-header.svg" width="100%" alt="header" />
 
 <a href="https://github.com/pinnamanenirohith">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Full+Stack+Engineer+%7C+Next.js+%2B+Node.js;Building+AI+%26+Cloud-Native+Products;SAC+President+%40+KL+University;Product+Engineering+Mindset" alt="Typing SVG" />
