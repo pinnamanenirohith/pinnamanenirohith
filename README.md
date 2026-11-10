@@ -35,7 +35,7 @@ I'm **Pinnamaneni Rohith Venkata Sai**, a B.Tech Computer Science & Engineering 
 
 - I build end to end: TypeScript and React frontends, Node.js / FastAPI backends, MongoDB and SQL data layers, deployed on Linux with Nginx, PM2 and GitHub Actions.
 - I've built a role-based ERP for my university's Student Activity Center, a police-department check-in prototype, and an AI advisory chatbot on IBM Cloud.
-- I lead a 25+ member team as **President of the Student Activity Center**, which keeps my engineering decisions grounded in real users and real operational constraints.
+- As **President of the Student Activity Center**, I lead a council of 80+ members that runs SAC for 7,000+ registered students across 30+ clubs, with 60+ activities every month of every semester. That keeps my engineering decisions grounded in real users and real operational constraints.
 
 **Open To:** Software engineering internships and entry-level roles, full stack and AI/cloud product work, and open source collaboration.
 
@@ -114,10 +114,10 @@ Digitization of hotel guest check-in for Andhra Pradesh Police, replacing manual
 | :--- | :--- |
 | **Stack** | FastAPI, Python, SQLite, React / Vite admin panel, Flutter citizen app |
 | **Scale** | Working prototype built and demonstrated in Eluru |
-| **Impact** | Certificate of Appreciation from the DGP, AP Police (2026) |
+| **Impact** | Certificate of Appreciation from the Superintendent of Police, Guntur District, presented by the DGP, AP Police (Sep 2026) |
 | **Repository** | Private |
 
-A FastAPI backend serves two clients: a React / Vite admin interface and a Flutter citizen-facing app. The prototype earned formal recognition from the Director General of Police, Andhra Pradesh.
+A FastAPI backend serves two clients: a React / Vite admin interface and a Flutter citizen-facing app. The prototype earned a Certificate of Appreciation from the Superintendent of Police, Guntur District, presented by the Director General of Police, Andhra Pradesh.
 
 </details>
 
@@ -162,7 +162,8 @@ My portfolio site: a statically exported Next.js application deployed on Vercel.
 
 Lead the Student Activity Center and act as the main link between student representatives and the university administration.
 
-- Lead a team of 25+ members
+- Lead a council of 80+ members that runs SAC for 7,000+ registered students across 30+ clubs
+- Oversee 60+ activities every month, every semester
 - Own strategy, operations and student engagement across the council
 - Coordinate between student representatives and university administration
 
@@ -210,8 +211,7 @@ Lead the Student Activity Center and act as the main link between student repres
 
 | Recognition | Details |
 | :--- | :--- |
-| **Certificate of Appreciation** | AP Police, presented by the DGP, for SafeStay AP (2026) |
-| **Certificate of Appreciation** | Superintendent of Police, Guntur District, AP Police, for designing and developing the SafeStay AP mobile application (Sep 2026) |
+| **Certificate of Appreciation** | Superintendent of Police, Guntur District, AP Police, presented by the DGP, for designing and developing the SafeStay AP mobile application (Sep 2026) |
 | **Certificate of Recognition** | Femflare'26, KL University, for outstanding contribution to the Women Development Cell (2025-26) |
 | **Vice President Recognition Award** | Women Development Cell, KL University (2025-26) |
 | **SAC Administrative Lead Recognition Award** | Student Activity Center, KL University (2024-25) |
