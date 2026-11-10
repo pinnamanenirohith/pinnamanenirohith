@@ -34,7 +34,7 @@
 I'm **Pinnamaneni Rohith Venkata Sai**, a B.Tech Computer Science & Engineering (Cloud Native Engineering) student at **KL University**, focused on software engineering that ships: full stack web platforms, applied AI, and cloud-native deployment.
 
 - I build end to end: TypeScript and React frontends, Node.js / FastAPI backends, MongoDB and SQL data layers, deployed on Linux with Nginx, PM2 and GitHub Actions.
-- I've built a role-based ERP for my university's Student Activity Center, a police-department check-in prototype, and an AI advisory chatbot on IBM Cloud.
+- I've built my university's Student Activity Center website, a police-department check-in prototype, and an AI advisory chatbot on IBM Cloud.
 - As **President of the Student Activity Center**, I lead a council of 80+ members that runs SAC for 7,000+ registered students across 30+ clubs, with 60+ activities every month of every semester. That keeps my engineering decisions grounded in real users and real operational constraints.
 
 **Open To:** Software engineering internships and entry-level roles, full stack and AI/cloud product work, and open source collaboration.
@@ -84,26 +84,6 @@ I'm **Pinnamaneni Rohith Venkata Sai**, a B.Tech Computer Science & Engineering 
 ## Featured Projects
 
 <details open>
-<summary><b>SAC Council Management Platform (ERP)</b></summary>
-
-<br/>
-
-A role-based management platform built from scratch for KL University's Student Activity Center, covering council operations across clubs.
-
-| | |
-| :--- | :--- |
-| **Stack** | Next.js, React, TypeScript, Node.js, Express 5, MongoDB, GitHub Actions, Nginx, PM2, Linux |
-| **Scale** | 8 permission tiers (Director to Club Member), 22 MongoDB models, 8 feature areas; designed for 20-40 clubs |
-| **Performance** | Self-hosted Linux server behind Nginx, process-managed with PM2 |
-| **Security** | JWT and bcrypt authentication, Nodemailer OTP verification, Helmet, rate limiting, Joi and express-validator input validation |
-| **Impact** | Director-approved; currently in multi-user testing as a pilot |
-| **Repository** | Private |
-
-The platform models the real approval hierarchy of the Student Activity Center, from the Director down to individual club members, with permission enforcement at the API layer. It is a pilot deployment and is being validated with multiple users before wider rollout.
-
-</details>
-
-<details>
 <summary><b>SafeStay AP</b></summary>
 
 <br/>
@@ -298,7 +278,6 @@ Learning:
   - Cloud-native architecture and DevOps
   - Applied AI and conversational systems
 Building:
-  - SAC Council Management Platform (ERP) pilot
   - SafeStay AP prototype
 Exploring:
   - Production hardening for self-hosted Node.js services
