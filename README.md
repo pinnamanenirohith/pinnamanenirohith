@@ -106,15 +106,16 @@ A FastAPI backend serves two clients: a React / Vite admin interface and a Flutt
 
 <br/>
 
-An AI chatbot that gives farmers crop and weather guidance, built during the IBM SkillsBuild internship.
+A bilingual (English / Telugu) chatbot that gives farmers crop, price, pest and weather guidance. Built during the IBM SkillsBuild internship, then rebuilt as a live web app.
 
 | | |
 | :--- | :--- |
-| **Stack** | IBM Watson Assistant, IBM Cloud, NLP (intents, entities, dialog nodes) |
-| **Impact** | Delivered as the internship project for IBM SkillsBuild / Edunet Foundation (AICTE) |
+| **Stack** | IBM Watson Assistant, IBM Cloud, NLP (intents, entities, dialog nodes), JavaScript, Open-Meteo API |
+| **Impact** | Delivered as the internship project for IBM SkillsBuild / Edunet Foundation (AICTE); the web classifier passes 19 of 19 unseen test questions |
+| **Live demo** | [pinnamanenirohith.github.io/Smart-Farming-Advisor](https://pinnamanenirohith.github.io/Smart-Farming-Advisor/) |
 | **Repository** | [pinnamanenirohith/Smart-Farming-Advisor](https://github.com/pinnamanenirohith/Smart-Farming-Advisor) |
 
-The assistant maps farmer questions to intents and entities, then walks them through guided dialog flows for crop and weather advice.
+The assistant maps farmer questions to intents and entities. The web version runs on the same Watson intents and replies, answers in the language the farmer types in, and adds a live 3-day weather forecast.
 
 </details>
 
@@ -173,6 +174,7 @@ Lead the Student Activity Center and act as the main link between student repres
 `Jul 2025 - Aug 2025`
 
 - Built the Smart Farming Advisor chatbot on IBM Cloud with Watson Assistant
+- Rebuilt it as a live English / Telugu web app: [try the demo](https://pinnamanenirohith.github.io/Smart-Farming-Advisor/)
 
 `IBM Cloud` `Watson Assistant` `NLP`
 
